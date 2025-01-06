@@ -1,0 +1,34 @@
+# **Mad Libs Generator**  
+
+Um projeto divertido em Python!  
+
+## **Descrição do Projeto**  
+O **Mad Libs Generator** é um projeto interativo que permite criar histórias engraçadas e personalizadas a partir de dados fornecidos pelo usuário. Este programa é perfeito para praticar habilidades fundamentais em Python, como:  
+- Manipulação de strings.  
+- Uso de variáveis.  
+- Concatenação de texto.  
+
+Ao interagir com o programa, o usuário será solicitado a inserir palavras, como adjetivos, pronomes e verbos. O programa utiliza essas informações para montar uma história criativa e única.  
+
+---
+
+## **Funcionalidades**  
+- Solicita entradas específicas ao usuário (adjetivo, pronome e verbo).  
+- Combina as entradas para criar uma narrativa divertida.  
+- Gera um texto final que varia de acordo com as respostas fornecidas.  
+
+---
+
+## **Exemplo de Execução**  
+Entrada do usuário:  
+- Adjetivo: incrível  
+- Pronome: nós  
+- Verbo: correr  
+
+Saída gerada pelo programa:  
+*"Era uma vez um dia **incrível**. **Nós** decidimos **correr** pelo parque e foi uma aventura inesquecível!"*   
+
+---
+
+## **Licença**  
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
